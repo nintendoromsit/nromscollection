@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "build_number": 4,
+  "version": "1.0.0",
+  "build_number": 1,
   "release_date": "2025-10-30",
   "min_supported_version": "1.0.0",
   "force_update": false,
@@ -25,24 +25,17 @@
   },
   "changelog": {
     "it": [
-      "🆕 Aggiunto sistema notifiche per nuovi giochi",
       "🎨 Nuovi temi: Turchese, Oro, Indaco",
       "🐛 Risolti problemi con i filtri",
       "⚡ Migliorata velocità caricamento"
     ],
     "en": [
-      "🆕 Added notification system for new games",
       "🎨 New themes: Teal, Gold, Indigo",
       "🐛 Fixed filter issues",
       "⚡ Improved loading speed"
     ]
   },
   "features": [
-    {
-      "title": "Sistema Notifiche",
-      "description": "Ricevi una notifica quando vengono aggiunti nuovi giochi",
-      "icon": "notification"
-    },
     {
       "title": "Nuovi Temi",
       "description": "12 temi colorati per personalizzare l'app",
