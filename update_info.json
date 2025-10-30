@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "v1.0.0a",
   "build_number": 1,
   "release_date": "2025-10-30",
   "min_supported_version": "1.0.0",
@@ -7,13 +7,13 @@
   "platforms": {
     "android": {
       "available": true,
-      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Nintendo/nroms-v1.0.0-android.apk",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.0a-android.apk",
       "file_size": "48.3MB",
       "min_sdk": 21
     },
     "ios": {
       "available": true,
-      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Nintendo/nroms-v1.0.0-ios-unsigned.ipa",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.0a-ios-unsigned.ipa",
       "file_size": "8.31MB",
       "min_ios": "13.0"
     },
@@ -25,23 +25,12 @@
   },
   "changelog": {
     "it": [
-      "🎨 Nuovi temi: Turchese, Oro, Indaco",
-      "🐛 Risolti problemi con i filtri",
-      "⚡ Migliorata velocità caricamento"
+      "Fix giochi mancanti"
     ],
     "en": [
-      "🎨 New themes: Teal, Gold, Indigo",
-      "🐛 Fixed filter issues",
-      "⚡ Improved loading speed"
+      "Fix missing games"
     ]
   },
-  "features": [
-    {
-      "title": "Nuovi Temi",
-      "description": "12 temi colorati per personalizzare l'app",
-      "icon": "palette"
-    }
-  ],
   "breaking_changes": false,
   "critical_update": false
 }
