@@ -1,0 +1,54 @@
+{
+  "version": "1.0.3",
+  "build_number": 3,
+  "release_date": "2025-10-30",
+  "min_supported_version": "1.0.3",
+  "force_update": false,
+  "platforms": {
+    "android": {
+      "available": true,
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/v1.0.1/NROMS-v1.0.1.apk",
+      "file_size": "25 MB",
+      "min_sdk": 21
+    },
+    "ios": {
+      "available": true,
+      "download_url": "https://apps.apple.com/app/nroms-collection/id123456789",
+      "file_size": "28 MB",
+      "min_ios": "13.0"
+    },
+    "windows": {
+      "available": false,
+      "download_url": null,
+      "file_size": null
+    }
+  },
+  "changelog": {
+    "it": [
+      "🆕 Aggiunto sistema notifiche per nuovi giochi",
+      "🎨 Nuovi temi: Turchese, Oro, Indaco",
+      "🐛 Risolti problemi con i filtri",
+      "⚡ Migliorata velocità caricamento"
+    ],
+    "en": [
+      "🆕 Added notification system for new games",
+      "🎨 New themes: Teal, Gold, Indigo",
+      "🐛 Fixed filter issues",
+      "⚡ Improved loading speed"
+    ]
+  },
+  "features": [
+    {
+      "title": "Sistema Notifiche",
+      "description": "Ricevi una notifica quando vengono aggiunti nuovi giochi",
+      "icon": "notification"
+    },
+    {
+      "title": "Nuovi Temi",
+      "description": "12 temi colorati per personalizzare l'app",
+      "icon": "palette"
+    }
+  ],
+  "breaking_changes": false,
+  "critical_update": false
+}
