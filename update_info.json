@@ -7,14 +7,14 @@
   "platforms": {
     "android": {
       "available": true,
-      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/v1.0.4/NROMS-v1.0.4.apk",
-      "file_size": "25 MB",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Nintendo/nroms-v1.0.0-android.apk",
+      "file_size": "48.3MB",
       "min_sdk": 21
     },
     "ios": {
       "available": true,
-      "download_url": "https://apps.apple.com/app/nroms-collection/id123456789",
-      "file_size": "28 MB",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Nintendo/nroms-v1.0.0-ios-unsigned.ipa",
+      "file_size": "8.31MB",
       "min_ios": "13.0"
     },
     "windows": {
