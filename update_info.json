@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0.1",
+  "version": "v1.0.1",
   "build_number": 1,
   "release_date": "2025-10-30",
   "min_supported_version": "1.0.0",
@@ -7,13 +7,13 @@
   "platforms": {
     "android": {
       "available": true,
-      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.0.1-android.apk",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.1-android.apk",
       "file_size": "48.3MB",
       "min_sdk": 21
     },
     "ios": {
       "available": true,
-      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.0.1-ios-unsigned.ipa",
+      "download_url": "https://github.com/nintendoromsit/nromscollection/releases/download/Fixgames/nroms-v1.0.1-ios-unsigned.ipa",
       "file_size": "8.31MB",
       "min_ios": "13.0"
     },
